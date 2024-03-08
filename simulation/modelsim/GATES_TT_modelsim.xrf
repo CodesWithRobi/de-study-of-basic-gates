@@ -1,7 +1,7 @@
 vendor_name = ModelSim
-source_file = 1, E:/Quartus II/EXP_1a/GATES_TT.v
-source_file = 1, E:/Quartus II/EXP_1a/Waveform1a.vwf
-source_file = 1, E:/Quartus II/EXP_1a/db/GATES_TT.cbx.xml
+source_file = 1, X:/SAVEETHA/S2/DE/study-of-basic-gates/GATES_TT.v
+source_file = 1, X:/SAVEETHA/S2/DE/study-of-basic-gates/Waveform1a.vwf
+source_file = 1, X:/SAVEETHA/S2/DE/study-of-basic-gates/db/GATES_TT.cbx.xml
 design_name = GATES_TT
 instance = comp, \andgate~output , andgate~output, GATES_TT, 1
 instance = comp, \orgate~output , orgate~output, GATES_TT, 1
